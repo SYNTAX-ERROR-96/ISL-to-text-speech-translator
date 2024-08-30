@@ -1,0 +1,26 @@
+<annotation>
+	<folder>U</folder>
+	<filename>U.a0ff06a1-65e7-11ef-aa60-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\U\U.a0ff06a1-65e7-11ef-aa60-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>275</ymin>
+			<xmax>816</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

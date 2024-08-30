@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I.2b351178-65da-11ef-9d16-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\I\I.2b351178-65da-11ef-9d16-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>359</ymin>
+			<xmax>735</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

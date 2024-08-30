@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>N.7e8c7ced-65db-11ef-8e4e-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\N\N.7e8c7ced-65db-11ef-8e4e-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>132</ymin>
+			<xmax>923</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.5b8fee40-6527-11ef-87cd-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveyou.5b8fee40-6527-11ef-87cd-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>402</ymin>
+			<xmax>628</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

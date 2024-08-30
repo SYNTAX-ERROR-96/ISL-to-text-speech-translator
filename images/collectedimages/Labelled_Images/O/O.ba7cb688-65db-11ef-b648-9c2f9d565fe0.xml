@@ -1,0 +1,26 @@
+<annotation>
+	<folder>O</folder>
+	<filename>O.ba7cb688-65db-11ef-b648-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\O\O.ba7cb688-65db-11ef-b648-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>388</ymin>
+			<xmax>909</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

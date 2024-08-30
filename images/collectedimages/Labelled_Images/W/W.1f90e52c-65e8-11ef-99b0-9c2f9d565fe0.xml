@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W</folder>
+	<filename>W.1f90e52c-65e8-11ef-99b0-9c2f9d565fe0.jpg</filename>
+	<path>C:\New folder\W\W.1f90e52c-65e8-11ef-99b0-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>297</ymin>
+			<xmax>836</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

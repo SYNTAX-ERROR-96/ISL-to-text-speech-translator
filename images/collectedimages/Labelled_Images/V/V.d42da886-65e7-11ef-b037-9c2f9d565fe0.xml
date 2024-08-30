@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>V.d42da886-65e7-11ef-b037-9c2f9d565fe0.jpg</filename>
+	<path>C:\New folder\V\V.d42da886-65e7-11ef-b037-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>346</ymin>
+			<xmax>792</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>S.135a2a00-65e7-11ef-9812-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\S\S.135a2a00-65e7-11ef-9812-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>198</ymin>
+			<xmax>767</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>J</folder>
+	<filename>J.6d5285c6-65da-11ef-9f3d-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\J\J.6d5285c6-65da-11ef-9f3d-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>260</ymin>
+			<xmax>872</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

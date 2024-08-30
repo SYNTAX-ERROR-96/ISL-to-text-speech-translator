@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>L.f7784107-65da-11ef-8d5f-9c2f9d565fe0.jpg</filename>
+	<path>C:\Users\swaya\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\L\L.f7784107-65da-11ef-8d5f-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>176</ymin>
+			<xmax>779</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

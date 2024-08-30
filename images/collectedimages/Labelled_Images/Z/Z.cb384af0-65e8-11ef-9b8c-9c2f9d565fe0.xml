@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Z</folder>
+	<filename>Z.cb384af0-65e8-11ef-9b8c-9c2f9d565fe0.jpg</filename>
+	<path>C:\New folder\Z\Z.cb384af0-65e8-11ef-9b8c-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>199</ymin>
+			<xmax>756</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

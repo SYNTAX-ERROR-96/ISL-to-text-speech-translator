@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Y</folder>
+	<filename>Y.9b16d965-65e8-11ef-a245-9c2f9d565fe0.jpg</filename>
+	<path>C:\New folder\Y\Y.9b16d965-65e8-11ef-a245-9c2f9d565fe0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>69</ymin>
+			<xmax>898</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>
